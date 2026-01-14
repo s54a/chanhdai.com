@@ -49,7 +49,7 @@ export const metadata: Metadata = {
   keywords: SITE_INFO.keywords,
   authors: [
     {
-      name: "ncdai",
+      name: "s54a",
       url: SITE_INFO.url,
     },
   ],
@@ -73,23 +73,23 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    creator: "@iamncdai", // Twitter username
+    creator: "@s54a__",
     images: [SITE_INFO.ogImage],
   },
   icons: {
     icon: [
       {
-        url: "https://assets.chanhdai.com/images/favicon.ico",
+        url: "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' rx='20' fill='%23000'/%3E%3Ctext x='50' y='50' font-size='68' fill='%23ffffff' text-anchor='middle' dy='.35em' font-family='Poppins, sans-serif' %3ESG%3C/text%3E%3C/svg%3E",
         sizes: "any",
       },
       {
-        url: "https://assets.chanhdai.com/images/favicon.svg",
+        url: "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' rx='20' fill='%23000'/%3E%3Ctext x='50' y='50' font-size='68' fill='%23ffffff' text-anchor='middle' dy='.35em' font-family='Poppins, sans-serif' %3ESG%3C/text%3E%3C/svg%3E",
         type: "image/svg+xml",
       },
     ],
     apple: {
-      url: "https://assets.chanhdai.com/images/apple-touch-icon.png",
-      type: "image/png",
+      url: "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' rx='20' fill='%23000'/%3E%3Ctext x='50' y='50' font-size='68' fill='%23ffffff' text-anchor='middle' dy='.35em' font-family='Poppins, sans-serif' %3ESG%3C/text%3E%3C/svg%3E",
+      type: "image/svg+xml",
       sizes: "180x180",
     },
   },
