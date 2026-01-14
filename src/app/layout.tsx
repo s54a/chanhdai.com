@@ -79,16 +79,16 @@ export const metadata: Metadata = {
   icons: {
     icon: [
       {
-        url: "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' rx='20' fill='%23000'/%3E%3Ctext x='50' y='50' font-size='68' fill='%23ffffff' text-anchor='middle' dy='.35em' font-family='Poppins, sans-serif' %3ESG%3C/text%3E%3C/svg%3E",
+        url: "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20viewBox%3D%270%200%20100%20100%27%3E%3Crect%20width%3D%27100%27%20height%3D%27100%27%20rx%3D%2720%27%20fill%3D%27%23000000%27%2F%3E%3Ctext%20x%3D%2750%27%20y%3D%2750%27%20font-size%3D%2750%27%20fill%3D%27%23ffffff%27%20text-anchor%3D%27middle%27%20dy%3D%27.3em%27%20font-family%3D%27Poppins%2C%20sans-serif%27%20font-weight%3D%27bold%27%3ESG%3C%2Ftext%3E%3C%2Fsvg%3E",
         sizes: "any",
       },
       {
-        url: "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' rx='20' fill='%23000'/%3E%3Ctext x='50' y='50' font-size='68' fill='%23ffffff' text-anchor='middle' dy='.35em' font-family='Poppins, sans-serif' %3ESG%3C/text%3E%3C/svg%3E",
+        url: "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20viewBox%3D%270%200%20100%20100%27%3E%3Crect%20width%3D%27100%27%20height%3D%27100%27%20rx%3D%2720%27%20fill%3D%27%23000000%27%2F%3E%3Ctext%20x%3D%2750%27%20y%3D%2750%27%20font-size%3D%2750%27%20fill%3D%27%23ffffff%27%20text-anchor%3D%27middle%27%20dy%3D%27.3em%27%20font-family%3D%27Poppins%2C%20sans-serif%27%20font-weight%3D%27bold%27%3ESG%3C%2Ftext%3E%3C%2Fsvg%3E",
         type: "image/svg+xml",
       },
     ],
     apple: {
-      url: "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' rx='20' fill='%23000'/%3E%3Ctext x='50' y='50' font-size='68' fill='%23ffffff' text-anchor='middle' dy='.35em' font-family='Poppins, sans-serif' %3ESG%3C/text%3E%3C/svg%3E",
+      url: "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20viewBox%3D%270%200%20100%20100%27%3E%3Crect%20width%3D%27100%27%20height%3D%27100%27%20rx%3D%2720%27%20fill%3D%27%23000000%27%2F%3E%3Ctext%20x%3D%2750%27%20y%3D%2750%27%20font-size%3D%2750%27%20fill%3D%27%23ffffff%27%20text-anchor%3D%27middle%27%20dy%3D%27.3em%27%20font-family%3D%27Poppins%2C%20sans-serif%27%20font-weight%3D%27bold%27%3ESG%3C%2Ftext%3E%3C%2Fsvg%3E",
       type: "image/svg+xml",
       sizes: "180x180",
     },
