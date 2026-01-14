@@ -28,6 +28,11 @@ export const USER = {
       company: "Business Culture",
       website: "https://businessculture.co.in",
     },
+    {
+      title: "Design Engineer",
+      company: "Shadcraft",
+      website: "https://shadcraft.com",
+    },
   ],
 
   about: `
